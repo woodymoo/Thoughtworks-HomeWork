@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyMerchantApp", "GalaxyMerchantApp\GalaxyMerchantApp.csproj", "{3ED04170-95EE-4498-AAFD-9866437CA76D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumber\RomanNumerals.csproj", "{5F1954C1-9971-4EAB-AE64-0C177E3385C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsTest", "RomanNumeralsTest\RomanNumeralsTest.csproj", "{CF99EE0D-C7BF-4316-9BEC-23AA787CFF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED04170-95EE-4498-AAFD-9866437CA76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED04170-95EE-4498-AAFD-9866437CA76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED04170-95EE-4498-AAFD-9866437CA76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED04170-95EE-4498-AAFD-9866437CA76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1954C1-9971-4EAB-AE64-0C177E3385C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1954C1-9971-4EAB-AE64-0C177E3385C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1954C1-9971-4EAB-AE64-0C177E3385C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1954C1-9971-4EAB-AE64-0C177E3385C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF99EE0D-C7BF-4316-9BEC-23AA787CFF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF99EE0D-C7BF-4316-9BEC-23AA787CFF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF99EE0D-C7BF-4316-9BEC-23AA787CFF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF99EE0D-C7BF-4316-9BEC-23AA787CFF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD8BC38-8B9A-4312-8CAB-027E56CE047F}
+	EndGlobalSection
+EndGlobal
